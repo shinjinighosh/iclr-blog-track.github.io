@@ -8,7 +8,7 @@ tags: [word segmentation, cognitive learning, neural learning]
 ## Contents
 
 1.  [Introduction to Word Segmentation](#introduction-to-word-segmentation)
-2.  [Infant Statistical Learning](#infant-statistical-learning)
+2.  [Infant Learning](#infant-learning)
 3.  [Neural Word Segmentation](#neural-word-segmentation)
 4.  [Probabilistic Modeling](#probabilistic-modeling)
 5.  [References](#references)
@@ -25,7 +25,7 @@ There have been several attempts and ongoing work for finding different algorith
 
 We believe that current state-of-the-art language models, which fail on natural language understanding and inference tasks, could benefit with human-inspired augmentations and that an improved word segmentation algorithm would further the current NLP frontiers in the capabilities of neural and non-neural language models, especially because most models currently in place crucially reply on segmenting words correctly. Distilling the knowledge gained from our understanding of human cognition into computational models and human-like intelligent systems could go a long way in overall improved neural learning models.
 
-## Infant Statistical Learning
+## Infant Learning
 
 Saffran et al.'s groundbreaking paper delves into statistical learning by 8-month-old infants, and aims to probe one of the very basic human cognitive tasks, a fundamental task accomplished by almost every child in the world---segmentation of words from fluent speech. The authors state that 'successful' word segmentation by the infants, based on only 2 minutes of speech exposure, suggests that they have access to a powerful mechanism for computing the statistical properties of language input. This is a very important observation in building computational models of cognition regarding word segmentation, especially when coupled with the fact that there exists complex and widely varying acoustic structure of speech in different languages and hence, there is no invariant acoustic cue to word boundaries present in all languages.
 
