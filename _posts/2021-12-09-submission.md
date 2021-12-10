@@ -79,7 +79,7 @@ The final results are as in Tables 7 and 8. The final results compare favorably 
 The authors have leveraged rich extenral resources to pretrain a deep learning model, thereby yielding a more enhanced word segmentation model which utilises both character and word contexts. The authors use neural multi-task learning to pre-train a set of shared parameters for character contexts. The results indicate a 15.4% relative error reduction and are highly competitive to both statistical and neural state-of-the-art models on six different benchmarks.
 
 ## Probabilistic Modeling
-To help demonstrate the advantages of this new pretrained deep learning model, we have implemented two statistical methods applied on data obtained from Saffran et al.'s classic 1996 paper.
+To help demonstrate the advantages of this new pretrained deep learning model, we have implemented two statistical methods applied on data obtained from Saffran et al.'s classic 1996 paper. We show how these statistical models, a probabilistic context free grammar, and an n-gram model underperform the neural learning method presented above.
 
 ### Probabilistic Context Free Grammar
 
