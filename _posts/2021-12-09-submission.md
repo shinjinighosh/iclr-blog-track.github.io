@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Human Cognition Inspired Word Segmentation
+title: Human Cognition Inspired Word Segmentation Models
 authors: Ghosh, Shinjini (MIT)
 tags: [word segmentation, cognitive learning, neural learning]  
 ---
